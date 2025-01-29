@@ -29,7 +29,7 @@ I'm a **Fullstack Developer** with a passion for creating dynamic web applicatio
 ### Frontend
 
 <div style="background-color: #f0f0f0; padding: 10px" >
-  <img src ="./images/html-5.svg" alt="HTML5" width="3%" title='HTML5'/>
+  <img src ="./images/html-5.svg" alt="HTML5" width="3%" title='HTML5' style="background-color: #f0f0f0"/>
   <img src ="./images/css-3.svg" alt="CSS3" width="3%" title='CSS3'/>
   <img src ="./images/bootstrap.svg" alt="Bootstrap" width="4%" title='Bootstrap'/>
   <img src ="./images/tailwindcss.svg" alt="tailwindcss" width="10%" title='tailwindcss'/>
