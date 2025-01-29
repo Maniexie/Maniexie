@@ -1,4 +1,9 @@
-## Hi there, I'm Nurdian Aprilianto👋
+<!-- ![MasterHead](./images/giphy.gif)  -->
+<div align="center">
+  <img src="./images/giphy.gif" alt="MasterHead" width="100%" />
+</div>
+
+<h2 align="center">Hi there, I'm Nurdian Aprilianto 👋</h2>
 
 I'm a **Fullstack Developer** with a passion for creating dynamic web applications using a variety of modern technologies. I specialize in both frontend and backend development, and I love bringing designs to life while ensuring efficient, scalable back-end architectures.
 
@@ -43,7 +48,9 @@ I'm a **Fullstack Developer** with a passion for creating dynamic web applicatio
 
 <div style="background-color: #f0f0f0; padding: 10px" >
   <img src ="./images/nodejs.svg" alt="Node.js" width="5%" title='Node.js'/>
-  <img src ="./images/express.svg" alt="Express" width="9%" title='Express'/>
+  <img src ="./images/express.svg" alt="Express" width="4%" title='Express'/>
+  <img src ="./images/php.svg" alt="php" width="6%" title='php'/>
+  <img src ="./images/laravel.svg" alt="laravel" width="6%" title='laravel' style=""/>
 </div>
 
 ### Database
