@@ -3,7 +3,7 @@
   <img src="./images/giphy.gif" alt="MasterHead" width="100%" />
 </div>
 
-<h2 align="center">Hi there, I'm Nurdian Aprilianto<img src="./images/hello.gif" width="8%" style="vertical-align: middle; margin-right: 10px;" /> </h2>
+<h2 align="center">Hi there, I'm Nurdian Aprilianto 👋 </h2>
 
 I'm a **Fullstack Developer** with a passion for creating dynamic web applications using a variety of modern technologies. I specialize in both frontend and backend development, and I love bringing designs to life while ensuring efficient, scalable back-end architectures.
 
